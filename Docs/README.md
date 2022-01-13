@@ -1,7 +1,7 @@
 Please feel free to submit updates.
 
 ## Instructors ##
-[Mark Michaelis](https://github.com/MarkMichaelis), [Grant Erikson](https://github.com/GrantErickson), and [Meg Woodford](https://github.com/mmwoodfo)
+[Mark Michaelis](https://github.com/MarkMichaelis), [Grant Erickson](https://github.com/GrantErickson), and [Meg Woodford](https://github.com/mmwoodfo)
 
 For any general question we suggest asking in Microsoft Teams. This is a great place to collaborate and ask questions of both each other and the instructors. Though you can message people directly, as much as possible, we encourage open discussion on the meeting chat so that others can benefit as well.
 
@@ -41,7 +41,7 @@ Though most of the course work will be cross platform, we will be working on Win
 - [GitExtensions](https://gitextensions.github.io/), [GitHub Desktop](https://desktop.github.com/), (or any other git tool): There are lots of options out there for working with git. If there is a tool you like, use it! 
 
 ## Class Video ##
-We will try to record class presentations so that students can review after class. [Recordings will be available here](https://www.dropbox.com/sh/TODO).
+We will try to record class presentations so that students can review after class. [Recordings will be available here](https://www.dropbox.com/home/PhotosDrive/EWU/Current).
 Please note:
 * **Do not expect or rely on video recordings.**  We are not making any commitment to having video recordings of class. 
 * Please keep all videos ***confidential***. These videos are for people enrolled in this class.  No videos or parts of videos should be copied/distributed/shared.
